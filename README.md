@@ -134,7 +134,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pranav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pranavn21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>🎵 Spotify</h2></summary>
 
   <!-- Spotify-->
