@@ -132,8 +132,13 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pranav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pranavn21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 </details>
+
+<details open> 
+  <summary><h2>🎵 Spotify</h2></summary>
+
+  <!-- Spotify-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k9g9pbgs7xbjnqwv7k1eqkqo8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</details> 
 
 
