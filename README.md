@@ -44,7 +44,7 @@
     <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pranavn21&repo=Flight-Plan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
     <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pranavn21&repo=Functioning-Roblox-Phone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
   </p>
-
+</details> 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
