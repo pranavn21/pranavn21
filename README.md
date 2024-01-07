@@ -142,6 +142,9 @@
   🎵 _What I'm listening to_ 🎵
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k9g9pbgs7xbjnqwv7k1eqkqo8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://raw.githubusercontent.com/pranavn21/pranavn21/output/snake.svg" alt="Snake animation" />
+
 </details> 
 
 
