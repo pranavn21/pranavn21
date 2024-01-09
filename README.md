@@ -138,6 +138,8 @@
 <details> 
   <summary><h2>🗒️About Me</h2></summary>
 
+- Academic Interests: Artificial Intelligence, Cybersecurity
+- Non-academic Interests: Law enforcement/criminal justice, Astronomy
   <!-- Spotify-->
   🎵 _What I'm listening to_ 🎵
   
