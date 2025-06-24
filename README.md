@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavnair2002/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://img.freepik.com/free-vector/abstract-coming-soon-halftone-style-background-design_1017-27282.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704067200&semt=ais"><img width="32px" alt="My website (coming soon)" title="My Website" src="www.pranav-nair.com"/></a>
+    <a href="https://www.pranav-nair.com/"><img width="32px" alt="My website (coming soon)" title="My Website" src="https://www.worthingdirectory.co.uk/wp-content/uploads/2015/03/website-logo-png-transparent-background-6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.last.fm/user/Celestial21"><img width="32px" alt="Last.fm" title="Check out what I listen to!" src="https://www.last.fm/static/images/lastfm_avatar_twitter.52a5d69a85ac.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
