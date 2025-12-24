@@ -121,7 +121,7 @@
 
   <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranavn21&theme=monokai-metallian&hide_border=true&cache_seconds=86400&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pranavn21)](https://git.io/streak-stats)
 
   </p>
 
