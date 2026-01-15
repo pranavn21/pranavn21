@@ -159,7 +159,7 @@
   <summary><h2>🗒️About Me</h2></summary>
 
 - Academic Interests: Artificial Intelligence, Cybersecurity
-- Non-academic Interests: Law enforcement/criminal justice, Astrophotography, Astronomy
+- Non-academic Interests: Law enforcement/criminal justice, Astrophotography, Astrophysics/Astronomy
   
   <!-- Spotify-->
   🎵 <i>What I'm listening to</i> 🎵
