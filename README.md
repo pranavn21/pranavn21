@@ -164,6 +164,6 @@
   <!-- Spotify-->
   🎵 <i>What I'm listening to</i> 🎵
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k9g9pbgs7xbjnqwv7k1eqkqo8&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=k9g9pbgs7xbjnqwv7k1eqkqo8&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=k9g9pbgs7xbjnqwv7k1eqkqo8&redirect=true)
 
 </details>
