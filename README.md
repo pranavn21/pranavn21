@@ -129,7 +129,8 @@ Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, 
   </p>
 </details>
 
-## 🖥️ My Rig
+<details>
+  <summary><h2>🖥️ My Rig</h2></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AMD-Ryzen%207%209850X3D-B00000?style=for-the-badge&logo=amd&logoColor=white" />
@@ -145,6 +146,7 @@ Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, 
     Ryzen 7 9850X3D • RTX 5080 16GB • 32GB DDR5-6000 • 2TB NVMe • 1000W ATX 3.1
   </sub>
 </p>
+</details>
 
 <details>
   <summary><h2>📊 Stats and Activity</h2></summary>
