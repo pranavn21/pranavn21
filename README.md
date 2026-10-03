@@ -32,7 +32,7 @@
 
 ## 👋 About Me
 
-Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, SQL Server, & Azure**.
+Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, SQL Server & Azure**.
 
 🎓 CS Honors graduate from **The University of Texas at Dallas**  
 🤖 Interested in **AI/ML, local LLMs, & quantitative computing**  
