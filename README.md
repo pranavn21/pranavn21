@@ -35,7 +35,7 @@
 Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, SQL Server & Azure**.
 
 🎓 CS Honors graduate from **The University of Texas at Dallas**  
-🤖 Interested in **AI/ML, local LLMs, & quantitative computing**  
+🤖 Interested in **AI/ML, local LLMs, & quantitative finance**  
 🔭 Astrophotographer & astronomy enthusiast  
 🚀 Currently building [astroframe-ai](https://github.com/pranavn21/astroframe-ai), a local AI assistant for astrophotography frame analysis
 
