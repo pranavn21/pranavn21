@@ -170,7 +170,7 @@ Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, 
   </p>
   <br/>
 
-  <p><b>Note:</b> Top languages reflect the languages used in my public code, not my experience or skill level.</p>
+  <p><b>Note:</b> Top languages reflect the languages used in my public code repos, not my experience or skill level.</p>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pranav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pranavn21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
