@@ -90,7 +90,7 @@ Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, 
   <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?style=for-the-badge&logo=dpy"></a>
   </p>
 
-  <h3>🤖 AI / ML</h3>
+  <h3>🤖 AI/ML</h3>
   <p>
   <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=matplotlib&logoColor=black"></a>
