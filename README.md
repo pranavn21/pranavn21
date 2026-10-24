@@ -38,6 +38,7 @@ Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, 
 🤖 Interested in **AI/ML, local LLMs & quantitative finance**  
 🔭 Astrophotographer & astronomy enthusiast  
 🚀 Currently building [astroframe-ai](https://github.com/pranavn21/astroframe-ai), a local AI assistant for astrophotography frame analysis
+💻 Also working on Agentic AI research, involving guardrails and forming a strong framework to prevent AI misuse
 
 <details open>
   <summary><h2>📕 Top Projects I've Developed/Contributed To</h2></summary>
