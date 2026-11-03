@@ -38,7 +38,7 @@ Software Engineer II @ Deloitte Tax, working primarily with **C#/.NET, Angular, 
 🤖 Interested in **AI/ML, local LLMs & quantitative finance**  
 🔭 Astrophotographer & astronomy enthusiast  
 🚀 Currently building [astroframe-ai](https://github.com/pranavn21/astroframe-ai), a local AI assistant for astrophotography frame analysis  
-💻 Also working on Agentic AI research, involving guardrails and forming a strong framework to prevent AI misuse
+💻 Also working on Agentic AI research, involving guardrails and forming a strong framework to prevent AI misuse 
 🌐 Building my [personal website](https://www.pranav-nair.com/) with **Next.js, React & Three.js**, featuring interactive 3D experiences to showcase my software engineering, AI research & astrophotography projects
 
 <details open>
